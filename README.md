@@ -15,7 +15,7 @@ That's all the keys needed. Now the constant variables in the projects should be
 taskpro-web/src/config/constants.js
 
 
-Mobile Setup
+Web Setup
 
 ### `cd taskpro-web`
 ### `yarn install`
